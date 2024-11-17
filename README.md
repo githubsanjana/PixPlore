@@ -19,4 +19,4 @@ PixPlore is a simple and elegant web application that allows users to upload and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PixPlore.git
+   https://github.com/githubsanjana/PixPlore.git
